@@ -58,7 +58,8 @@ hi pythonOperator guifg=#7e8aa2 gui=none ctermfg=103
 hi NERDTreeFile     guifg=#cdd2db ctermfg=250
 hi NERDTreeDir      guifg=#a5aebe ctermfg=111
 hi NERDTreeUp       guifg=#5b646d ctermfg=62
-hi NERDTreePart     guifg=#a5aebe ctermfg=111
 
 hi def link NERDTreeOpenable String
 hi def link NERDTreeCloseable NERDTreeOpenable
+hi def link NERDTreeCWD String
+hi def link NERDTreePart String
