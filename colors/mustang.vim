@@ -63,3 +63,7 @@ hi def link NERDTreeOpenable String
 hi def link NERDTreeCloseable NERDTreeOpenable
 hi def link NERDTreeCWD String
 hi def link NERDTreePart String
+
+" Indent Guides plugin colors
+hi IndentGuidesEven guibg=#202020 ctermbg=234
+hi IndentGuidesOdd guibg=#161616 ctermbg=233
