@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 " Maintainer: Henrique C. Alves (hcarvalhoalves@gmail.com)
 " Version:      1.0
 " Last Change:  September 25 2008
+=======
+" Credits: Fork of croaker/mustang-vim
+" Maintainer: HP Dietz | h.p.dietz@gmail.com | @h_p_d
+" Version:      1.2.0
+" Last Change:  April 24 2016
+>>>>>>> 59a600ede3cba84ca48e81b2c5c7b7877bfc561f
 
 set background=dark
 
@@ -55,8 +62,13 @@ hi Todo       guifg=#000000 guibg=#e6ea50 gui=italic
 hi pythonOperator guifg=#7e8aa2 gui=none ctermfg=103
 
 " Indent guide colors
+<<<<<<< HEAD
 hi IndentGuidesOdd guibg=#000000 ctermbg=0
 hi IndentGuidesEven guibg=#2d2d2d ctermbg=236
+=======
+hi indentGuidesOdd guibg=#000000 ctermbg=0
+hi intentGuidesEven guibg=#444444 ctermbg=8
+>>>>>>> 59a600ede3cba84ca48e81b2c5c7b7877bfc561f
 
 " NERDTree colors
 hi NERDTreeFile     guifg=#cdd2db ctermfg=250
