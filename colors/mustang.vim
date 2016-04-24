@@ -1,6 +1,6 @@
 " Credits: Fork of croaker/mustang-vim
 " Maintainer: HP Dietz | h.p.dietz@gmail.com | @h_p_d
-" Version:      1.2.0
+" Version:      1.2.1
 " Last Change:  April 24 2016
 
 set background=dark
