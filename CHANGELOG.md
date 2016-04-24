@@ -1,3 +1,6 @@
+# 1.2.1
+* Update indent guide colors
+
 # 1.2.0
 * Add proper readme
 

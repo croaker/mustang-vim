@@ -56,7 +56,7 @@ hi Todo       guifg=#000000 guibg=#e6ea50 gui=italic
 hi pythonOperator guifg=#7e8aa2 gui=none ctermfg=103
 
 " Indent guide colors
-hi IndentGuidesOdd guibg=#000000 ctermbg=0
+hi IndentGuidesOdd guibg=#161616 ctermbg=233
 hi IndentGuidesEven guibg=#2d2d2d ctermbg=236
 
 " NERDTree colors
