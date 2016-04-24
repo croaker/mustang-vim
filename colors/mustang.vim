@@ -1,6 +1,7 @@
-" Maintainer: Henrique C. Alves (hcarvalhoalves@gmail.com)
-" Version:      1.0
-" Last Change:  September 25 2008
+" Credits: Fork of croaker/mustang-vim
+" Maintainer: HP Dietz | h.p.dietz@gmail.com | @h_p_d
+" Version:      1.1.0
+" Last Change:  April 24 2016
 
 set background=dark
 
